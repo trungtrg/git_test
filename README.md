@@ -1,0 +1,1 @@
+This is Trung Truong's first git project.
